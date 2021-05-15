@@ -44,7 +44,8 @@ function webpackConfig(env, argv) {
         script(options),
         style(options),
         svg(options),
-        customConfig);
+        customConfig
+    );
 }
 
 module.exports = webpackConfig;
