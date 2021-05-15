@@ -52,7 +52,6 @@
     "@babel/core": "^7.13.16",
     "webpack": "^5.37.0"
   },
-  "private": false,
   "repository": {
     "type": "git",
     "url": "git@github.com:SuhushinAS/webpack-config.git"
